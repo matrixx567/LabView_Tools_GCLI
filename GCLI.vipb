@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2019-04-18 23:43:15" Modified_Date="2025-07-08 07:06:44" Creator="Martin" Comments="" ID="251c4ff936cf9a38b223b4fa55e80202">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2019-04-18 23:43:15" Modified_Date="2025-07-08 07:28:13" Creator="Martin" Comments="" ID="95af4f4cd1653d2b4b3b3dd1b6e6c715">
   <Library_General_Settings>
     <Package_File_Name>MNProjects_Tools_GCLI</Package_File_Name>
-    <Library_Version>0.0.1.3</Library_Version>
+    <Library_Version>0.0.1.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>build</Library_Output_Folder>
@@ -279,7 +279,7 @@
         <Path>src\utils\Get Build Specifications.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>45006D8E54120DD8F9A8E0207ACF2FA8</GUID>
+      <GUID>013AB4B3392E1A34030489346F0F9BA5</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
